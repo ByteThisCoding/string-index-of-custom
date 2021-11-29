@@ -1,5 +1,5 @@
 # string-index-of-custom
-A custom implementation of "string.indexOf" which explores how to code this functionality from scratch.
+A custom implementation of "string.indexOf" which explores how to code this functionality from scratch. Feel free to also take a look at our [Dev Page](https://bytethisstore.com/articles/pg/js-str-index-of), where we cover this topic in a bit more detail.
 
 ## Problem Statement
 > Write a function that will receive a subject string and substring as arguments and return the position of the first occurence of the substring in the subject string, or -1 if it does not exist.
